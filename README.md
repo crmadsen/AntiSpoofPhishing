@@ -1,6 +1,6 @@
 # Anti-Spoof Phishing
 
-Program that monitors Outlook inbox in real-time to identify spoof phishing emails sent out by third-party security consultants. Places them in the junk email where they belong.
+Program that monitors Outlook inbox in real-time to identify spoof phishing emails sent out by third-party security consultants. Places them in junk email where they belong. 
 
 ## Getting Started
 
